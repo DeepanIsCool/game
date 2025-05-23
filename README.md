@@ -177,14 +177,3 @@ The game is built using a modular architecture with the following components:
 - **NumPy**: Mathematical operations and array handling
 - **Python Standard Library**: File I/O, randomization, and system integration
 
-## Credits
-
-- **Programming**: [Your Name]
-- **Game Design**: [Your Name]
-- **Graphics**: Created using Pygame primitives
-- **Sound Effects**: [Source of sound effects]
-- **Music**: [Source of music]
-
-## License
-
-[Include your license information here]
